@@ -45,4 +45,4 @@ Missing:
 5. Scalable - increase of decrease resources and services
 6. Elastic - Automate scaling during spikes and drop in demand
 7. Current - The underlying hardware and managed software is patched, upgraded, and replaced by the cloud provider w/o interruption to  you
-8. 
+8
